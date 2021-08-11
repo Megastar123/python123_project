@@ -64,5 +64,5 @@ if __name__ == '__main__':
     logging.info('Spark Session created')
     pipeline.run_pipeline()
     logging.info('Pipeline executed')
-
+    info
 
